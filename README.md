@@ -3,9 +3,7 @@
 
 An executive-ready interactive business intelligence dashboard designed for clinical risk stratification, data profiling, and healthcare data quality management using the Pima Indians Dataset.
 
-## 📊 Dashboard Preview
 
-![Healthcare Dashboard](dashboard.png)
 
 ## 🛠️ Key Core Tasks Accomplished
 
