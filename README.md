@@ -20,5 +20,5 @@ An executive-ready interactive business intelligence dashboard designed for clin
 
 ## 🛡️ Governance & Patient Privacy Framework
 
-* **De-identification Compliance:**
-*
+* **De-identification Compliance**
+
